@@ -25,21 +25,21 @@ C) student.greeting()
 D) student['Favorite Teacher'].name
 E) student.courseLoad[0]
 13)
-A) 32
-B) 1
-C) 3
-D) 3null
-E) 4
-F) 0
-G) 3undefined
-H) NaN
+   A) 32
+   B) 1
+   C) 3
+   D) 3null
+   E) 4
+   F) 0
+   G) 3undefined
+   H) NaN
 14)
-A) true
-B) false
-C) true
-D) false
-E) false
-F) true
+   A) true
+   B) false
+   C) true
+   D) false
+   E) false
+   F) true
 15) == is equality test (allows type conversion) whereas === is a strict equality test (doesn't convert)
 16) see part1b-question16.js
 17) If we were to log the return, modifyArray receives [2, 4, 6] as its array. This is because we push each ith value of the argument "array" into newArr after performing the callback function ("doSomething") on it. doSomething on '1' returns '2', which newArr pushes, and this is done for each element of "array".
