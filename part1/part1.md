@@ -19,11 +19,11 @@
 10) console logs 3 because that is the length of prices
 11) it should return [50, 100, 150], again the cost of the original items with the discounts off
 12)
-A) student.name
-B) student['Grad Year']
-C) student.greeting()
-D) student['Favorite Teacher'].name
-E) student.courseLoad[0]
+   A) student.name
+   B) student['Grad Year']
+   C) student.greeting()
+   D) student['Favorite Teacher'].name
+   E) student.courseLoad[0]
 13)
    A) 32
    B) 1
