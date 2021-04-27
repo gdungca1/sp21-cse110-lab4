@@ -19,27 +19,27 @@
 10. console logs 3 because that is the length of prices
 11. it should return [50, 100, 150], again the cost of the original items with the discounts off
 12.
-   1. student.name
-   2. student['Grad Year']
-   3. student.greeting()
-   4. student['Favorite Teacher'].name
-   5. student.courseLoad[0]
+    1. student.name
+    2. student['Grad Year']
+    3. student.greeting()
+    4. student['Favorite Teacher'].name
+    5. student.courseLoad[0]
 13.
-   1. 32
-   2. 1
-   3. 3
-   4. 3null
-   5. 4
-   6. 0
-   7. 3undefined
-   8. NaN
+    1. 32
+    2. 1
+    3. 3
+    4. 3null
+    5. 4
+    6. 0
+    7. 3undefined
+    8. NaN
 14.
-   1. true
-   2. false
-   3. true
-   4. false
-   5. false
-   6. true
+    1. true
+    2. false
+    3. true
+    4. false
+    5. false
+    6. true
 15. == is equality test (allows type conversion) whereas === is a strict equality test (doesn't convert)
 16. see part1b-question16.js
 17. If we were to log the return, modifyArray receives [2, 4, 6] as its array. This is because we push each ith value of the argument "array" into newArr after performing the callback function ("doSomething") on it. doSomething on '1' returns '2', which newArr pushes, and this is done for each element of "array".
